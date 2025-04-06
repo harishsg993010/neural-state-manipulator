@@ -4,6 +4,8 @@ A Python library for recording and manipulating the internal neural activations 
 
 This is an alternative for representation engineering and folks no longer need to fine-tune or prompt a model to explicitly control a Large Language Model's generation behavior.
 
+notebook for exploring this Neural State Manipulator: https://colab.research.google.com/drive/1gLG9Ef7Z176j3qZcs_abnNoAYxsd_PYq?usp=sharing
+
 ## Description
 
 Neural State Manipulator allows researchers and developers to:
