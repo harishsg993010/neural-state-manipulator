@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neural-state-manipulator"
+version = "0.1.0"
+description = "A tool for manipulating the internal neural activations of language models"
+readme = "README.md"
+authors = [
+    {name = "Harish Santhana Lakshmi Ganesan", email = "harishsg99@gmail.com"}
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+keywords = ["machine learning", "natural language processing", "neural networks", "transformers"]
+dependencies = [
+    "torch>=2.6.0",
+    "transformers>=4.50.3",
+    "numpy>=2.0.2",
+    "bitsandbytes>=0.45.4",
+    ]
+requires-python = ">=3.8"
+
+[project.urls]
+"Homepage" = "https://github.com/harishsg993010/neural-state-manipulator"
+"Bug Tracker" = "https://github.com/harishsg993010/neural-state-manipulator/issues"
