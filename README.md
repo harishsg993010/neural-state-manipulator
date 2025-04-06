@@ -166,9 +166,9 @@ If you use this library in your research, please cite:
 
 ```
 @software{neural_state_manipulator,
-  author = {Your Name},
+  author = {Harish Santhanalakshmi Ganesan},
   title = {Neural State Manipulator: A Tool for Manipulating Internal Neural Activations of Language Models},
   year = {2025},
-  url = {https://github.com/yourusername/neural-state-manipulator}
+  url = {https://github.com/harishsg993010/neural-state-manipulator}
 }
 ```
